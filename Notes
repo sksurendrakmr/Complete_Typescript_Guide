@@ -1,0 +1,13 @@
+Typescript is a "Superset" to Javascript
+
+Typescript adds static typing to Javascript
+as Javascript on its own is dynamically typed
+
+We cannot run Typescript directly in browser.
+Therefore we need to compile typescript to Javascript
+
+During that compilation process, all our type annotation will
+be removed as javascript doesn't know those annotations
+
+
+
