@@ -22,7 +22,7 @@ enum DESIGNATION1 {
   READ_ONLY, //7
 }
 enum DESIGNATION2 {
-  ADMIN = "ADMIN", //5
-  AUTHORS = 10, //6
-  READ_ONLY = "READ_ONLY", //7
+  ADMIN = "ADMIN",
+  AUTHORS = 10,
+  READ_ONLY = "READ_ONLY",
 }
